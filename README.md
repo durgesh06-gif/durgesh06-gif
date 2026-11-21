@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full Stack Developer</h3>
 
 <p align="center">
-<img width="3840" height="2152" alt="image" src="https://github.com/user-attachments/assets/ccf86ca3-c1cc-424c-b50d-89857fe4fdd6" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New" />
 </p>
 
 <hr/>
@@ -86,24 +86,6 @@
 
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=durgesh06-gif&theme=github-compact&hide_border=true"/>
-</div>
-
-<br/>
-
-<h1>🚀 Featured Projects</h1>
-
-<hr/>
-
-<div align="center">
-
-<a href="https://github.com/durgesh06-gif/Collecta">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=durgesh06-gif&repo=Collecta&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/durgesh06-gif/EWasteHub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=durgesh06-gif&repo=EWasteHub&theme=github_dark&hide_border=true"/>
-</a>
-
 </div>
 
 <br/>
