@@ -1,93 +1,92 @@
 
-<!-- ======================================= -->
-<!--          GITHUB PROFILE README         -->
-<!-- ======================================= -->
-
 <h1 align="center">Hi 👋, I'm Durgesh Gosavi</h1>
 
-<h3 align="center">
-  💻 Software Developer | Full Stack Developer
-</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;React+%7C+JavaScript+%7C+Python;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ffff&style=for-the-badge" />
+  Passionate about building modern web applications and learning new technologies.
 </p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-- 👨‍💻 I'm a passionate Software Developer.
-- 🌱 Currently improving my Full Stack Development skills.
-- 💡 Interested in Web Development and Software Engineering.
-- 🔭 Building real-world projects using modern technologies.
-- 🎯 Goal: To become a skilled Software Engineer.
-- ⚡ Fun fact: I love turning ideas into code.
+- 🔭 I'm interested in Full Stack Web Development.
+- 🌱 Currently improving my frontend and backend skills.
+- 💻 Love building responsive and user-friendly websites.
+- 🧠 Interested in learning new technologies.
+- 🎯 Goal: To become a professional Full Stack Developer.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Skills & Technologies
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap 5
+
+**Backend**
+- Node.js
+- Express.js
+- Python
+- C#
+
+**Database**
+- MongoDB
+- MySQL
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,python,cpp,cs,mongodb,mysql,git,github,vscode&perline=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+### 🚀 My Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+- **Collecta** – Collectibles auction website built using React.
+- **EWasteHub** – E-waste management web application.
+- **Portfolio Website** – Personal portfolio showcasing my skills and projects.
 
 ---
 
-## 📈 Contribution Activity
+### 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-<h3 align="center">
-  💻 "Code. Learn. Build. Repeat."
-</h3>
+<p align="center">
+  💻 Code | Learn | Build | Repeat
+</p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! 
+  ⭐ Thanks for visiting my profile!
 </p>
