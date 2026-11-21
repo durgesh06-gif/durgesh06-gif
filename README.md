@@ -3,8 +3,7 @@
 <h3 align="center">💻 Full Stack Developer</h3>
 
 <p align="center">
-  <img src=<img width="3840" height="2152" alt="image" src="https://github.com/user-attachments/assets/ccf86ca3-c1cc-424c-b50d-89857fe4fdd6" />
- />
+<img width="3840" height="2152" alt="image" src="https://github.com/user-attachments/assets/ccf86ca3-c1cc-424c-b50d-89857fe4fdd6" />
 </p>
 
 <hr/>
