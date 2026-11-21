@@ -3,7 +3,8 @@
 <h3 align="center">💻 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New" />
+  <img src=<img width="3840" height="2152" alt="image" src="https://github.com/user-attachments/assets/ccf86ca3-c1cc-424c-b50d-89857fe4fdd6" />
+ />
 </p>
 
 <hr/>
