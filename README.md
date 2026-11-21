@@ -63,9 +63,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=durgesh06-gif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh06-gif&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=durgesh06-gif&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=durgesh06-gif&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -95,12 +95,12 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/Collecta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Collecta&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/durgesh06-gif/Collecta">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=durgesh06-gif&repo=Collecta&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/EWasteHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=EWasteHub&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/durgesh06-gif/EWasteHub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=durgesh06-gif&repo=EWasteHub&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=durgesh06-gif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
@@ -121,7 +121,7 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/durgesh06-gif">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
