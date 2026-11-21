@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello World!, I'm Tobi, a Next.js dev from Berlin
 
-<!--
-**durgesh06-gif/durgesh06-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏼‍💻 find me also [here](https://tobimey.dev)<br> 👨🏼‍🚀 working as a full stack web developer since 2022 <br>🎬 content creation at [Tobi Mey](https://www.youtube.com/@tobi-mey)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+
+Lets hold it simple, there is much more but these tools are what I use daily: 
+
+- Lang: Ts
+- Framework: Next.js
+- Styling: TailwindCSS & Shadcn
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
